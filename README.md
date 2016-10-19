@@ -1,5 +1,7 @@
-jasmine-node
+jasmine-node2
 ======
+
+is a updated Fork
 
 [![Build Status](https://secure.travis-ci.org/spaghetticode/jasmine-node.png)](http://travis-ci.org/spaghetticode/jasmine-node)
 
