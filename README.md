@@ -1,5 +1,7 @@
-jasmine-node
+jasmine-node2
 ======
+
+is a updated Fork
 
 [![Build Status](https://travis-ci.org/tebriel/jasmine-node.png?branch=Jasmine2.0)](https://travis-ci.org/tebriel/jasmine-node)
 ![Dependencies](https://david-dm.org/tebriel/jasmine-node.png)
